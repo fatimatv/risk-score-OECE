@@ -34,7 +34,7 @@ reports/         Informes y capturas del proyecto
 
 ## Modelo final
 
-Random Forest balanceado, entrenado con variables temporales, severidad de sanción, tipo de proveedor y motivo de infracción.
+Regresión Logística y Random Forest balanceado, entrenado con variables temporales, severidad de sanción, tipo de proveedor y motivo de infracción.
 
 ## Herramientas
 
