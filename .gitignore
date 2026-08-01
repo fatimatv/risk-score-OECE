@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Raw / temporary data
+data/raw/
+*_SUCIO.csv
+
+# Very large or generated artifacts
+*.zip
+*.rar
+*.7z
+
+# Logs
+*.log
