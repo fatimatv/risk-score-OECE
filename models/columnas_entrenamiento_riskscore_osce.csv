@@ -1,0 +1,27 @@
+﻿columna
+ANIO_INICIO_SANCION
+MES_INICIO_SANCION
+TRIMESTRE_INICIO_SANCION
+DURACION_MESES
+DURACION_ANIOS
+SANCION_MAYOR_1_ANIO
+SANCION_MAYOR_3_ANIOS
+LOG_DURACION_DIAS
+ES_PERSONA_NATURAL
+ES_PERSONA_JURIDICA
+ES_OTRO_TIPO_RUC
+MOTIVO_DOC_FALSA
+MOTIVO_INFO_INEXACTA
+MOTIVO_INCUMPLIMIENTO
+MOTIVO_CONTRATAR_IMPEDIDO
+NUM_MOTIVOS_INFRACCION
+TIENE_MULTIPLES_MOTIVOS
+motivo_grupo_Impedimento para contratar
+motivo_grupo_No perfecciona/suscribe contrato
+motivo_grupo_Otros
+motivo_grupo_Resolución/rescisión contractual
+duracion_grupo_6-12 meses
+duracion_grupo_Fecha fin < inicio
+duracion_grupo_Hasta 6 meses
+duracion_grupo_Más de 3 años
+duracion_grupo_Sin fecha fin

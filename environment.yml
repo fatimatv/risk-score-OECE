@@ -1,14 +1,14 @@
-name: riskscore-osce
+name: riskscore_osce
 channels:
-  - conda-forge
   - defaults
+  - conda-forge
 dependencies:
-  - python=3.11
+  - python=3.10
   - pandas
   - numpy
   - scikit-learn
   - joblib
   - matplotlib
-  - openpyxl
   - notebook
-  - jupyter
+  - jupyterlab
+  - openpyxl
