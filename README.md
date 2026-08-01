@@ -1,4 +1,4 @@
-# RiskScore OSCE
+# RiskScore OECE
 
 Proyecto de ciencia de datos para construir un modelo predictivo binario orientado a estimar el riesgo de sanción futura de proveedores vinculados a contratación pública peruana.
 
