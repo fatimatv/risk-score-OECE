@@ -2,6 +2,14 @@
 
 Proyecto de ciencia de datos para construir un modelo predictivo binario orientado a estimar el riesgo de sanción futura de proveedores vinculados a contratación pública peruana.
 
+## Dashboard desplegado
+
+El dashboard de resultados del modelo está disponible en Vercel:
+
+**https://risk-score-oece-dashboard.vercel.app**
+
+El dashboard permite visualizar el ranking de proveedores/postores evaluados, la probabilidad estimada de sanción en 24 meses, el nivel de riesgo, la comparación de modelos y la importancia de variables.
+
 ## Objetivo
 
 Desarrollar un modelo de clasificación binaria que estime si un proveedor registra una sanción posterior dentro de un horizonte de 24 meses.
@@ -45,6 +53,7 @@ Regresión Logística y Random Forest balanceado, entrenado con variables tempor
 - Joblib
 - Jupyter Notebook
 - Anaconda
+- Vercel
 
 ## Nota sobre datos
 
